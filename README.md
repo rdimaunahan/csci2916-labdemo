@@ -1,2 +1,3 @@
 # csci2916-labdemo
-@author Melah Dimaunahan
+Melah Dimaunahan
+This project is an introduction to Git and Github
